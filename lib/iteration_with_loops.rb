@@ -15,6 +15,7 @@ end
 row_index +=1
 end
 end
+p find_even_values(array_of_array)
 
 
 
